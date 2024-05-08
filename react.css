@@ -1,0 +1,35 @@
+#header{
+    border: 2px solid black;
+    height: 200px;
+    width: 500px;
+    background-image: url("https://images.vexels.com/media/users/3/2880/raw/fea70b458a87f1b2bb5c89a9143e9043-shopping-cart-wallpaper.jpg");
+    position: relative;
+    left: 390px;
+}
+#logo{
+    height: 100px;
+    width: 100px;
+    cursor: pointer;
+}
+#user{
+    height: 80px;
+    width: 80px;
+    position:relative;
+    left: 50px;
+    bottom: 200px;
+    top:-5px;
+    cursor: pointer;
+}
+
+#input{
+    position: relative;
+    left: 20px;
+    top:-40px;
+}
+#butt{
+    position: relative;
+    top: -40px;
+    left: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    cursor: pointer;
+}
